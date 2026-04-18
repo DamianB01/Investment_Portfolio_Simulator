@@ -1,6 +1,7 @@
 # 📈 Investment Portfolio Simulator (Monte Carlo + Real Market Data)
 
 
+
 ---
 
 ## 🧠 Overview
@@ -77,7 +78,9 @@ Type in bash in the project directory:
 <img width="679" height="465" alt="Zrzut ekranu 2026-04-19 000628" src="https://github.com/user-attachments/assets/cc775a32-068d-4d66-af0d-5c3635682d46" />  
 <img width="626" height="465" alt="Zrzut ekranu 2026-04-19 000638" src="https://github.com/user-attachments/assets/8396fd1f-5e71-40ab-9aa3-9dffe65293dc" />  
 <img width="624" height="452" alt="Zrzut ekranu 2026-04-19 000646" src="https://github.com/user-attachments/assets/a0d452d4-df0c-4fc8-bdd1-5f9227be2b1f" />  
+
 <img width="561" height="274" alt="Zrzut ekranu 2026-04-19 000721" src="https://github.com/user-attachments/assets/b34eaf3f-148c-4471-9ed7-56ef2056a49a" />  
+
 <img width="522" height="106" alt="image" src="https://github.com/user-attachments/assets/e254560b-4008-42a1-8083-45b7065cfaf6" />  
 
 ---
