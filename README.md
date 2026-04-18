@@ -54,6 +54,7 @@ Where:
 | :--- | :--- |
 | 📊 **Expected Return** | Average simulated portfolio outcome |
 | ⚠️ **VaR (95%)** | Worst-case loss in 5% scenarios |
+| 📉 **Loss Probability** | Probability of ending with negative return |
 | 📈 **Sharpe Ratio** | Risk-adjusted return |
 | 📉 **Max Drawdown** | Maximum peak-to-trough loss |
 
