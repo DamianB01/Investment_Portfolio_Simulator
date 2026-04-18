@@ -68,7 +68,7 @@ Where:
 
 ## 🧪 Run Tests
 
-Type in bash in the project directory:  
+To execute all unit tests, run the following command in the project root:   
 `python -m unittest discover unit_tests`  
 
 ---
